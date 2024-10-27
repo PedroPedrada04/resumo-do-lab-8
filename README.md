@@ -1,1 +1,3 @@
 # resumo-do-lab-8
+
+No lab sobre gerenciamento de custos no Azure, aprendi como monitorar e otimizar os gastos em serviços de nuvem. Explorei ferramentas como o Azure Cost Management, que permite visualizar e analisar os custos, além de configurar alertas para evitar surpresas no orçamento. A importância de etiquetar recursos para categorizar e controlar despesas também foi destacada, facilitando a identificação de onde o dinheiro está sendo gasto. Além disso, compreendi como usar a Calculadora de Preços do Azure para estimar custos antes de implementar novos serviços, ajudando na tomada de decisões mais informadas. Esse conhecimento é essencial para garantir uma gestão financeira eficiente na nuvem, maximizando o retorno sobre o investimento.
